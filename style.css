@@ -1,0 +1,114 @@
+body{
+    font-family: 'Merriweather',serif;
+    margin: 0;
+    text-align: center;
+    color: #48514E;
+}
+h1{
+    font-family:'sacramento',cursive;
+    font-size: 6em;
+    color: #66BFBF;
+
+
+}
+h2{
+    color: #66BFBF;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 2.5em;
+    font-weight: normal;
+    padding-bottom: 10px;
+}
+.top-container{
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+.profile img{
+    width: 170px;
+    height: 150px;
+    border-radius: 50%;
+    padding-top: 10px;
+
+}
+h3{
+color: #11999E;
+font-family: 'monteserrat',sans-serit;
+}
+
+hr{
+    border: 6px dotted blueviolet;
+    width: 4%;
+    border-bottom:none ;
+
+}
+.super{
+    float: left;
+    margin-right: 20px;
+}
+a{
+    color: #11999E;
+    text-decoration: none;
+    margin: 10px 20px;
+    font-family: 'Montserrat',sans-serif;
+}
+a:hover{
+color: black;
+}
+
+.bottom-container{
+    background-color: #66BFBF;
+    padding: 50px 0  20px;
+    margin-top: 20px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+.birds{
+    height: 600px;
+    width: 800px;
+}
+.cloud{
+    position: relative;
+    right: 200px;
+    height: 100px;
+    width: 80;
+}
+
+.code-img{
+    width: 25%;
+    float: left;
+    margin-left: 30px;
+    margin-right: 10px;
+
+}
+.intro{
+    width: 30%;
+    margin: auto;
+
+}
+.pro{
+    text-decoration: underline;
+}
+.contact-message{
+    width: 40%;
+    margin: 40px auto 60px;
+}
+.btn{
+    background-color: #66BFBF;
+    border-radius: 8px;
+    font-family: 'Montserrat',sans-serif;
+    font-size: 20px;
+    color: #ffffff;
+    padding: 10px 20px 10px 20px;
+}
+btn:hover{
+    background: #30e3cb;
+    
+}
+p{
+    line-height:  2;
+}
+
+
